@@ -14,11 +14,11 @@
 - 📘 Obsidian 駕駛艙：`G:\我的雲端硬碟\Obsidian\Markitdown\工作筆記.md`（想法的家）
 
 ## 進件 Inbox
-- `G:\我的雲端硬碟\_inbox\data\`    ← 待轉換的原始數據
-- `G:\我的雲端硬碟\_inbox\text\`    ← 待轉換的文件（PDF、DOCX、PPTX 等）
-- `G:\我的雲端硬碟\_inbox\images\`  ← 待轉換的圖片
-- `G:\我的雲端硬碟\_inbox\tasks.md` ← 待辦任務佇列
-- `G:\我的雲端硬碟\_inbox\urls.md`  ← 待研究連結清單
+- `G:\我的雲端硬碟\Claude_AI_Agents\_inbox\data\`    ← 待轉換的原始數據
+- `G:\我的雲端硬碟\Claude_AI_Agents\_inbox\text\`    ← 待轉換的文件（PDF、DOCX、PPTX 等）
+- `G:\我的雲端硬碟\Claude_AI_Agents\_inbox\images\`  ← 待轉換的圖片
+- `G:\我的雲端硬碟\Claude_AI_Agents\_inbox\tasks.md` ← 待辦任務佇列
+- `G:\我的雲端硬碟\Claude_AI_Agents\_inbox\urls.md`  ← 待研究連結清單
 
 ## 工具清單
 （之後加新工具時會自動更新）
